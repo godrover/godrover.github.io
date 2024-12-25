@@ -1,11 +1,16 @@
 > #### Any sufficiently advanced technology is indistinguishable from magic. - Arthur C. Clarke 
 
-- Arduino
 
-- Machine Learning
+## Areas of Interest:
 
-- OpenCV
+- C/C++
 
 - Python
 
+- Arduino
+
 - ROS
+
+- OpenCV
+
+- Machine Learning
