@@ -1,19 +1,11 @@
 > ### Any sufficiently advanced technology is indistinguishable from magic. - Arthur C. Clarke 
 
-- Pandas Numpy Matplot Plotly
+- Arduino
 
-- FreeRTOS
-
-- LoRa
-
-- Hamming Code
-
-- CCSDS
-
-- ROS
-
-- SLAM
+- Machine Learning
 
 - OpenCV
 
-- Tkinter
+- Python
+
+- ROS
