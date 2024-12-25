@@ -4,16 +4,16 @@
 
 - FreeRTOS
 
-LoRa
+- LoRa
 
-Hamming Code
+- Hamming Code
 
-CCSDS
+- CCSDS
 
-ROS
+- ROS
 
-SLAM
+- SLAM
 
-OpenCV
+- OpenCV
 
-Tkinter
+- Tkinter
