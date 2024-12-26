@@ -16,3 +16,5 @@
 - OpenCV
 
 - Machine Learning
+
+### Contact: godrover at kakao.com
