@@ -6,7 +6,7 @@
 ### Areas of Interest:
 
 - C/C++
- 
+
 - Python
 
 - Arduino
@@ -19,4 +19,4 @@
 
 　
 
-### godrover@kakao.com
+### E-mail: godrover@kakao.com
