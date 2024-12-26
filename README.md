@@ -17,6 +17,6 @@
 
 - Machine Learning
 
-　
+
 
 ### E-mail: godrover@kakao.com
