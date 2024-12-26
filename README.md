@@ -1,6 +1,6 @@
 > #### Any sufficiently advanced technology is indistinguishable from magic.
 > ##### - Arthur C. Clarke 
-> #### B[Contact:] godrover@kakao.com
+> #### **Contact:** godrover@kakao.com
 
 　
 
