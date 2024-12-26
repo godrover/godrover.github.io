@@ -3,6 +3,10 @@
 
 　
 
+### __Contact:__ godrover@kakao.com
+
+　
+
 ### Areas of Interest:
 
 - C/C++
@@ -16,7 +20,3 @@
 - OpenCV
 
 - Machine Learning
-
-　
-
-### __Contact:__ godrover@kakao.com
