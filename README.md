@@ -17,4 +17,4 @@
 
 - Machine Learning
 
-### Contact: godrover at kakao.com
+### Contact: godrover@kakao.com
