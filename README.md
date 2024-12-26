@@ -6,7 +6,7 @@
 ### Areas of Interest:
 
 - C/C++
-
+ 
 - Python
 
 - Arduino
@@ -16,5 +16,7 @@
 - OpenCV
 
 - Machine Learning
+
+　
 
 ### Contact: godrover at kakao.com
