@@ -1,7 +1,9 @@
 > #### Any sufficiently advanced technology is indistinguishable from magic.
 > ##### - Arthur C. Clarke 
 
-　
+
+ 
+### E-mail: godrover@kakao.com
 
 ### Areas of Interest:
 
@@ -16,7 +18,3 @@
 - OpenCV
 
 - Machine Learning
-
-　
-
-### E-mail: godrover@kakao.com
