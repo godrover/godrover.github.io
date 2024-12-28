@@ -3,12 +3,12 @@
 
 　
 
-### Self
+### E-mail
 ### godrover@kakao.com
 
 　
 
-### Study
+### Self Study
 
 - C/C++
 
