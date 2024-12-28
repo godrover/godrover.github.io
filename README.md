@@ -3,12 +3,12 @@
 
 　
 
-### \_\_self\_\_
+### Self
 ### godrover@kakao.com
 
 　
 
-### \_\_study\_\_
+### Study
 
 - C/C++
 
