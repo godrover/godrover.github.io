@@ -3,12 +3,12 @@
 
 　
 
-### E-mail
+### E-mail_
 ### godrover@kakao.com
 
 　
 
-### Studying
+### Studying_
 
 - C/C++
 
