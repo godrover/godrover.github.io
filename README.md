@@ -3,8 +3,8 @@
 
 　
 
-### \_\_Contact\_\_
-#### godrover@kakao.com
+### \_\_Self\_\_
+### godrover@kakao.com
 
 　
 
