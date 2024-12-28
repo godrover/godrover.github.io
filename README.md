@@ -1,11 +1,11 @@
 > #### *Any sufficiently advanced technology is indistinguishable from magic.*
 > ##### - Arthur C. Clarke 
 
-#### Contact _ godrover@kakao.com
+### Contact _ godrover@kakao.com
 
 　
 
-#### Areas of Interest _
+### Areas of Interest _
 
 - C/C++
 
