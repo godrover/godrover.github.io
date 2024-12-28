@@ -8,7 +8,7 @@
 
 　
 
-### Self study
+### Studying
 
 - C/C++
 
