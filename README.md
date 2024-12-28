@@ -3,12 +3,12 @@
 
 　
 
-### \_\_Self\_\_
+### \_\_self\_\_
 ### godrover@kakao.com
 
 　
 
-### \_\_Areas of Interest\_\_
+### \_\_study\_\_
 
 - C/C++
 
