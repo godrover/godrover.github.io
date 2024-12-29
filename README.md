@@ -16,6 +16,8 @@
 
 - #### Arduino
 
+- #### Raspberry Pi
+
 - #### ROS
 
 - #### OpenCV
