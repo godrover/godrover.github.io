@@ -10,14 +10,14 @@
 
 ### Studying_
 
-- ##### C/C++
+- #### C/C++
 
-- ##### Python
+- #### Python
 
-- ##### Arduino
+- #### Arduino
 
-- ##### ROS
+- #### ROS
 
-- ##### OpenCV
+- #### OpenCV
 
-- ##### Machine Learning
+- #### Machine Learning
