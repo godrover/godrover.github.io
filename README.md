@@ -3,7 +3,7 @@
 
 　
 
-### E-mail_
+### Contact_
 #### godrover@kakao.com
 
 　
