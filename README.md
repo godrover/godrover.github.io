@@ -10,9 +10,9 @@
 
 ### Studying_
 
-- #### C/C++
+- ##### C/C++
 
-- ### Python
+- #### Python
 
 - Arduino
 
