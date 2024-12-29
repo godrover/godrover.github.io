@@ -4,7 +4,7 @@
 　
 
 ### To contact_
-#### godrover at kakao.com
+#### godrover@kakao.com
 
 　
 
