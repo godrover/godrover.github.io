@@ -3,7 +3,7 @@
 
 　
 
-### To contact.
+### To contact
 #### godrover@kakao.com
 
 　
