@@ -3,7 +3,7 @@
 
 　
 
-### To contact: godrover at kakao.com
+### godrover at kakao.com
 
 　
 
