@@ -3,7 +3,7 @@
 
 　
 
-### To ontact:
+### To contact:
 ### godrover@kakao.com
 
 　
