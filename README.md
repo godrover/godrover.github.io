@@ -3,7 +3,7 @@
 
 　
 
-### godrover at kakao.com
+### godrover@kakao.com
 
 　
 
