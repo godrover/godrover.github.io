@@ -11,9 +11,8 @@
 ## 　**Currently studying...**
 #### 　　●　C/C++
 #### 　　●　Python
-#### 　　●　Arduino
-#### 　　●　Raspberry Pi
-#### 　　●　FPGA
+#### 　　●　Mathematics
 #### 　　●　ROS
-#### 　　●　OpenCV
+#### 　　●　Computer Vision
 #### 　　●　Machine Learning
+#### 　　●　Deep Learning
