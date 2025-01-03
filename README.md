@@ -9,10 +9,10 @@
 　
 
 ## 　**Currently studying...**
-#### 　　o　C/C++
-#### 　　o　Python
-#### 　　o　Mathematics
-#### 　　o　ROS
-#### 　　o　Computer Vision
-#### 　　o　Machine Learning
-#### 　　o　Deep Learning
+#### 　　·　C/C++
+#### 　　·　Python
+#### 　　·　Mathematics
+#### 　　·　ROS
+#### 　　·　Computer Vision
+#### 　　·　Machine Learning
+#### 　　·　Deep Learning
