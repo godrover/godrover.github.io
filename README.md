@@ -8,8 +8,8 @@
 
 　
 
-## 　**Currently studying...**
-#### 　　º　C/C++
+## 　**Currently studying...**⊙
+#### 　　⊙　C/C++
 #### 　　º　Python
 #### 　　º　Mathematics
 #### 　　º　ROS
