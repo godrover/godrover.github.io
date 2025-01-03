@@ -3,12 +3,11 @@
 
 　
 
-### To contact: 
-#### godrover@kakao.com
+### **To contact:** #### godrover@kakao.com
 
 　
 
-### Currently studying...
+### **Currently studying...**
 
 - #### C/C++
 
