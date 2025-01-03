@@ -8,11 +8,11 @@
 
 　
 
-## 　**Currently studying...**⊙♨
+## 　**Currently studying...**
 #### 　　○　C/C++
 #### 　　○　Python
 #### 　　●　ROS
 #### 　　●　Computer Vision
-#### 　　º　Machine Learning
-#### 　　º　Deep Learning
+#### 　　●　Machine Learning
+#### 　　●　Deep Learning
 
