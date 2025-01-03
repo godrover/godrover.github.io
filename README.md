@@ -9,7 +9,8 @@
 　
 
 ## 　**Currently studying...**
-<h5>○</h5><h2>C/C++</h2>
+<h3 style="display:inline;">O</h3><h4 style="display:inline;"> C++</h4>
+
 #### 　　○　Python
 #### 　　·　Mathematics
 #### 　　·　ROS
