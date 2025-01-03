@@ -9,10 +9,8 @@
 　
 
 ### 　**Currently studying...**
-
-　 #### > C/C++
-
-　 #### > Python
+#### > C/C++
+#### > Python
 
 - ####　 Arduino
 
