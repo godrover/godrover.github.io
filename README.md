@@ -9,8 +9,8 @@
 　
 
 ### 　**Currently studying...**
-#### 　　*  C/C++
-#### 　　*  Python
+#### 　　·  C/C++
+#### 　　·  Python
 #### 　　*  Arduino
 #### 　　*  Raspberry Pi
 #### 　　*  FPGA
