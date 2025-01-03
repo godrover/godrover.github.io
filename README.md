@@ -9,8 +9,7 @@
 　
 
 ## 　**Currently studying...**
-<h5>○</h5>
-<h2>C/C++</h2>
+<h5>○</h5><h2>C/C++</h2>
 #### 　　○　Python
 #### 　　·　Mathematics
 #### 　　·　ROS
