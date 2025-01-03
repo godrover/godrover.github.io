@@ -9,7 +9,7 @@
 　
 
 ### 　**Currently studying...**
-#### 　　**·**  C/C++
+#### 　　__·__  C/C++
 #### 　　·  Python
 #### 　　*  Arduino
 #### 　　*  Raspberry Pi
