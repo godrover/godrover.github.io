@@ -4,13 +4,13 @@
 　
 
 ## 　**To contact:**
-### 　　godrover@kakao.com
+#### 　　godrover@kakao.com
 
 　
 
 ## 　**Currently studying...**
-### 　　●　C/C++
-### 　　●　Python
+#### 　　●   　C/C++
+#### 　　●　Python
 #### 　　●　Arduino
 #### 　　●　Raspberry Pi
 #### 　　●　FPGA
