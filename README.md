@@ -8,12 +8,12 @@
 
 　
 
-### 　**Currently studying...**
-#### 　　●　C/C++
-#### 　　●　Python
-#### 　　*　Arduino
-#### 　　*　Raspberry Pi
-#### 　　*　FPGA
-#### 　　*　ROS
-#### 　　*　OpenCV
-#### 　　*　Machine Learning
+## 　**Currently studying...**
+### 　　●　C/C++
+### 　　●　Python
+### 　　●　Arduino
+### 　　●　Raspberry Pi
+### 　　●　FPGA
+### 　　●　ROS
+### 　　●　OpenCV
+### 　　●　Machine Learning
