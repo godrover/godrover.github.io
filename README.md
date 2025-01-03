@@ -9,9 +9,9 @@
 　
 
 ## 　**Currently studying...**
-<h3 style="display:inline;">○</h3><h4 style="display:inline;">C/C++</h4>
-<h3 style="display:inline;">○</h3><h4 style="display:inline;">C/C++</h4>
-<h3 style="display:inline;">○</h3><h4 style="display:inline;">C/C++</h4>
+<h5 style="display:inline;">○</h5><h4 style="display:inline;">C/C++</h4>
+<h5 style="display:inline;">○</h5><h4 style="display:inline;">C/C++</h4>
+<h5 style="display:inline;">○</h5><h4 style="display:inline;">C/C++</h4>
 #### 　　○　Python
 #### 　　·　Mathematics
 #### 　　·　ROS
