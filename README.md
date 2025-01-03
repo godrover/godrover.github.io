@@ -10,7 +10,7 @@
 
 ### 　**Currently studying...**
 
-　- ####  C/C++
+　- #### C/C++
 
 　- #### Python
 
