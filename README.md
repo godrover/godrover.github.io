@@ -9,7 +9,7 @@
 　
 
 ## 　**Currently studying...**
-#### 　　●　C/C++
+<span style="font-size:12px;">●</span> #### 　　●　C/C++
 #### 　　●　Python
 #### 　　●　ROS
 #### 　　●　Computer Vision
