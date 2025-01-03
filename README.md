@@ -4,16 +4,16 @@
 　
 
 ## 　**To contact:**
-### 　　godrover@kakao.com
+#### 　　godrover@kakao.com
 
 　
 
 ## 　**Currently studying...**
-### 　　●　C/C++
-### 　　●　Python
-### 　　●　Arduino
-### 　　●　Raspberry Pi
-### 　　●　FPGA
-### 　　●　ROS
-### 　　●　OpenCV
-### 　　●　Machine Learning
+#### 　　●　C/C++
+#### 　　●　Python
+#### 　　●　Arduino
+#### 　　●　Raspberry Pi
+#### 　　●　FPGA
+#### 　　●　ROS
+#### 　　●　OpenCV
+#### 　　●　Machine Learning
