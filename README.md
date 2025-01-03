@@ -9,8 +9,9 @@
 　
 
 ## 　**Currently studying...**
-<h5 style="display:inline;">○</h5><h4 style="display:inline;">C/C++</h4>
-<span style="font-size:10px;">○</span>
+<span style="font-size:5px;">●</span>
+<span style="font-size:20px;">C/C++</span>
+<span style="font-size:5px;">●</span>
 <span style="font-size:20px;">Python</span>
 #### 　　○　Python
 #### 　　·　Mathematics
