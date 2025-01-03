@@ -9,7 +9,7 @@
 　
 
 ## 　**Currently studying...**
-#### 　　○　### C/C++
+#### 　　○　<h4>C/C++</h4>
 #### 　　○　Python
 #### 　　·　Mathematics
 #### 　　·　ROS
