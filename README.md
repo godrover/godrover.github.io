@@ -9,10 +9,10 @@
 　
 
 ## 　**Currently studying...**
-<span style="font-size:5px;">● </span>
+　<span style="font-size:5px;">●</span>
 <span style="font-size:20px;">C/C++</span>
 
-<span style="font-size:5px;">●</span>
+　<span style="font-size:5px;">●</span>
 <span style="font-size:20px;">Python</span>
 #### 　　○　Python
 #### 　　·　Mathematics
