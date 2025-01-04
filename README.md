@@ -4,13 +4,13 @@
 　
 
 ## **To contact:**
-### 　　**[godrover@kakao.com](mailto:godrover@kakao.com)**
+### 　**[godrover@kakao.com](mailto:godrover@kakao.com)**
 
 　
 
 ## **Currently studying...**
-#### 　　●　C/C++
-#### 　　●　Python
+#### 　●　C/C++
+#### 　●　Python
 #### 　　●　ROS
 #### 　　●　Computer Vision
 #### 　　●　Machine Learning
