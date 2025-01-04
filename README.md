@@ -9,8 +9,8 @@
 　
 
 ## **Currently studying...**
-#### 　●　C/C++
-#### 　●　Python
+#### 　　●　C/C++
+#### 　　●　Python
 #### 　　●　ROS
 #### 　　●　Computer Vision
 #### 　　●　Machine Learning
