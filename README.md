@@ -12,6 +12,6 @@
 #### 　　●　Python
 #### 　　●　C/C++
 #### 　　●　ROS
-#### 　　●　Machine Learning
 #### 　　●　Computer Vision
+#### 　　●　Machine Learning
 #### 　　●　Deep Learning
