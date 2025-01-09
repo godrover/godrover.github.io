@@ -9,6 +9,6 @@
 　
 
 ## **Currently studying...**
+#### 　　●　Deep Learning
 #### 　　●　ROS
 #### 　　●　Computer Vision
-#### 　　●　Deep Learning
