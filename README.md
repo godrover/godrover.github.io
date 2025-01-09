@@ -9,6 +9,6 @@
 　
 
 ## **Currently studying...**
-#### 　　●　Robot Operating System
+#### 　　●　ROS
 #### 　　●　Computer Vision
 #### 　　●　Deep Learning
