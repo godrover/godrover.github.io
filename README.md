@@ -9,6 +9,8 @@
 　
 
 ## **Currently studying...**
-#### 　　●　Deep Learning
+
 #### 　　●　Robot Operating System
 #### 　　●　Computer Vision
+#### 　　●　Embedded Systems
+#### 　　●　Machine Learning
