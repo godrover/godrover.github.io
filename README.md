@@ -12,5 +12,5 @@
 
 #### 　　●　Robot Operating System
 #### 　　●　Computer Vision
-#### 　　●　Embedded Systems
 #### 　　●　Machine Learning
+#### 　　●　Embedded Systems
