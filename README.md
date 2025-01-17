@@ -13,5 +13,5 @@
 #### 　　●　Robot Operating System
 #### 　　●　Computer Vision
 #### 　　●　Machine Learning
-#### 　　●　Real Time Operating System
+#### 　　●　Real-time Operating System
 #### 　　●　Embedded Systems
