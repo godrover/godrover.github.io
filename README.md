@@ -13,5 +13,4 @@
 #### 　　●　Computer Vision
 #### 　　●　Simultaneous Localization And Mapping
 #### 　　●　Robot Operating System
-#### 　　●　Embedded Systems
 #### 　　●　Machine Learning
