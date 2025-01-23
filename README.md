@@ -11,7 +11,7 @@
 ## **Currently studying**
 
 - 　**Machine Learning**
-- **Robot Operating System**
-- **Computer Vision**
-- **Simultaneous Localization And Mapping**
+- 　**Robot Operating System**
+- 　**Computer Vision**
+- 　**Simultaneous Localization And Mapping**
 
