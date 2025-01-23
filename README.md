@@ -10,8 +10,8 @@
 
 ## **Currently studying**
 
-#### ●　Machine Learning
-#### ●　Robot Operating System
-#### ●　Computer Vision
-#### ●　Simultaneous Localization And Mapping
+- Machine Learning
+- Robot Operating System
+- Computer Vision
+- Simultaneous Localization And Mapping
 
