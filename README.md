@@ -17,3 +17,5 @@
 - **Computer Vision**
 - **Reinforcement Learning**
 - **Control Theory**
+- **Sensor Fusion**
+  
