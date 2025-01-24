@@ -13,8 +13,9 @@
 
 
 - **Robot Operating System**
-- **Deep Learning**
+- **Simultaneous Localization And Mapping**
 - **Computer Vision**
 - **You Only Look Once**
-- **Simultaneous Localization And Mapping**
+- **Deep Learning**
+
 
