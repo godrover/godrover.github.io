@@ -11,8 +11,10 @@
 
 ## **Currently studying**
 
-- **Machine Learning**
+
 - **Robot Operating System**
+- **Deep Learning**
 - **Computer Vision**
+- **You Only Look Once**
 - **Simultaneous Localization And Mapping**
 
