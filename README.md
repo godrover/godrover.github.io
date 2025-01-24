@@ -13,9 +13,5 @@
 
 
 - **Robot Operating System**
-- **Simultaneous Localization And Mapping**
-- **Computer Vision**
-- **Reinforcement Learning**
 - **Control Theory**
 - **Sensor Fusion**
-  
