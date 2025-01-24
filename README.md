@@ -15,5 +15,5 @@
 - **Robot Operating System**
 - **Simultaneous Localization And Mapping**
 - **Control Theory**
-- **Computer Vision**
+- **You Only Look Once**
 - **Reinforcement Learning**
