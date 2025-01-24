@@ -16,6 +16,3 @@
 - **Simultaneous Localization And Mapping**
 - **Computer Vision**
 - **You Only Look Once**
-- **Deep Learning**
-
-
