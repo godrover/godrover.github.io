@@ -13,5 +13,6 @@
 
 
 - **Robot Operating System**
+- **Simultaneous Localization And Mapping**
 - **Control Theory**
-- **Sensor Fusion**
+- **You Only Look Once**
