@@ -12,7 +12,7 @@
 ## **Currently studying**
 
 - **Robot Operating System**
-- **Reinforcement Learning**
+- **Machine Learning**
 - **Simultaneous Localization and Mapping**
 - **Path Planning and Navigation**
 - **Sensor Integration and Data Fusion**
