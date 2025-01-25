@@ -13,6 +13,7 @@
 
 - **Computer Vision**
 - **Robot Operating System**
+- **Reinforcement Learning**
 - **Simultaneous Localization and Mapping**
 - **Path Planning and Navigation**
 - **Sensor Integration and Data Fusion**
