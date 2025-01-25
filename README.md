@@ -16,5 +16,3 @@
 - **Simultaneous Localization and Mapping**
 - **Path Planning and Navigation**
 - **Sensor Integration and Data Fusion**
-- **Reinforcement Learning**
-- **Real-Time Operating System**
