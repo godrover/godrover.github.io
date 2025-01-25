@@ -11,8 +11,9 @@
 
 ## **Currently studying**
 
+- **Computer Vision**
 - **Robot Operating System**
-- **Machine Learning and Intelligence**
 - **Simultaneous Localization and Mapping**
 - **Path Planning and Navigation**
 - **Sensor Integration and Data Fusion**
+- **Reinforcement Learning**
