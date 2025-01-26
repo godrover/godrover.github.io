@@ -15,5 +15,5 @@
 - **Simultaneous Localization and Mapping**
 - **Path Planning and Navigation**
 - **Sensor Integration and Data Fusion**
-- **Machine Learning and Artificial Intelligence**
+- **Reinforcement Learning and AI**
 - **Real-Time Systems and Embedded Systems**
