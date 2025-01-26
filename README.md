@@ -16,4 +16,3 @@
 - **Path Planning and Navigation**
 - **Sensor Integration and Data Fusion**
 - **Reinforcement Learning and AI**
-- **Real-Time Systems and Embedded Systems**
