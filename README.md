@@ -11,7 +11,7 @@
 
 ## **Currently studying**
 
-- **Robot Operating System and Computer Vision**
+- **Robot Operating System and Robot Vision**
 - **Simultaneous Localization and Mapping**
 - **Path Planning and Navigation**
 - **Sensor Integration and Data Fusion**
