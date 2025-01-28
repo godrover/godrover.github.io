@@ -5,7 +5,7 @@
 
 ## **To contact**
 
-#### [godrover@kakao.com](mailto:godrover@kakao.com)
+#### 　[godrover@kakao.com](mailto:godrover@kakao.com)
 
 　
 
@@ -14,5 +14,5 @@
 - **Robot Operating System and Vision**
 - **Simultaneous Localization and Mapping**
 - **Path Planning and Navigation**
--**Sensor Integration and Data Fusion**
--**Reinforcement Learning and AI**
+- **Sensor Integration and Data Fusion**
+- **Reinforcement Learning and AI**
