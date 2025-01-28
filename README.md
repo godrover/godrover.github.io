@@ -13,6 +13,11 @@
 
 -**Robot Operating System and Vision**
 -**Simultaneous Localization and Mapping**
--**Path Planning and Navigation**
--**Sensor Integration and Data Fusion**
+- **Path Planning and Navigation**
+- **Sensor Integration and Data Fusion**
+-
+- 
+-
+-
+-
 -**Reinforcement Learning and AI**
