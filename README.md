@@ -11,9 +11,9 @@
 
 ## **Currently studying**
 
+- **Network and Embedded Systems**
 - **Robot Operating System and Vision**
+- **Sensor Integration and Data Fusion**
 - **Simultaneous Localization and Mapping**
 - **Path Planning and Navigation**
-- **Sensor Integration and Data Fusion**
 - **Reinforcement Learning and AI**
-- **Network and Embedded Systems**
